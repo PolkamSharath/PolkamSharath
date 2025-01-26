@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @PolkamSharath
-- 👀 I’m interested in AWS DEV OPS
-- 🌱 I’m currently learning AWS DEV OPS
+- 👀 I’m interested in Data Analytics
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me ...
 
